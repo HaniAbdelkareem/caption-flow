@@ -40,5 +40,3 @@ export default function RootLayout({ children }) {
     </html>
   )
 }
-
-// bg-gradient-to-b from-bg-gradient-from to-bg-gradient-to
